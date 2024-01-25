@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a self-taught Front-End Developer skilled in JavaScript, CSS, HTML, React.js, and Next.js. I have experience with AWS, Docker, and Jenkins. Recently, I've also started diving into Web3 development using Solidity. My self-learning journey has equipped me with a strong problem-solving mindset and the ability to quickly adapt to new technologies.
+I am a self-taught Front-End Developer with expertise in JavaScript, CSS, HTML, React.js, and Next.js. My proficiency extends to AWS, Docker, and Jenkins, reflecting a well-rounded skill set in contemporary web development technologies. Furthermore, I have embarked on Web3 development using Solidity, showcasing my commitment to staying at the forefront of emerging trends.
+
+My self-directed learning journey has cultivated a robust problem-solving mindset, enabling me to navigate complex challenges efficiently. I possess a demonstrated ability to swiftly adapt to evolving technologies, underscoring my dedication to continuous professional growth.
 
 * 🌍  I'm based in Calgary
 * ✉️  You can contact me at [ankygautam@icloud.com](mailto:ankygautam@icloud.com)
