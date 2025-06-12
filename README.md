@@ -4,9 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a self-taught Front-End Developer with expertise in JavaScript, CSS, HTML, React.js, and Next.js. My proficiency extends to AWS, Docker, and Jenkins, reflecting a well-rounded skill set in contemporary web development technologies. Furthermore, I have embarked on Web3 development using Solidity, showcasing my commitment to staying at the forefront of emerging trends.
+As a self-taught developer, I have dedicated myself to mastering a broad spectrum of web technologies, consistently pushing beyond traditional learning paths. My expertise spans both front-end and back-end development, with 3 years of hands-on experience building, testing, and deploying scalable web applications using modern tools and frameworks.
 
-My self-directed learning journey has cultivated a robust problem-solving mindset, enabling me to navigate complex challenges efficiently. I possess a demonstrated ability to swiftly adapt to evolving technologies, underscoring my dedication to continuous professional growth.
+Key Strengths and Technologies:
+
+Front-End Development: Proficient in JavaScript, React.js, Next.js, HTML, and CSS, with a proven ability to create responsive and dynamic user interfaces.
+
+Back-End Development: Experienced in PHP and MySQL for robust data modeling, optimization, and management. Familiar with Node.js for lightweight API development.
+
+Cloud & DevOps: Hands-on experience with AWS services (EC2, S3, VPC), Docker for containerization, and Jenkins for CI/CD pipelines, ensuring efficient deployment and automation.
+
+Web3 & Emerging Tech: Actively exploring Web3 development using Solidity, demonstrating a commitment to staying ahead in the ever-evolving tech landscape.
+
+Quality Assurance: Strong background in automated testing using Selenium WebDriver, Java, and TestNG, with expertise in functional, integration, regression, and cross-browser compatibility testing across multiple browsers and platforms.
 
 * 🌍  I'm based in Calgary
 * ✉️  You can contact me at [ankygautam@icloud.com](mailto:ankygautam@icloud.com)
